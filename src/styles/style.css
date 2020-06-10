@@ -2648,7 +2648,7 @@ input:focus {
   height: 200px;
 }
 
-/* The Modal (background) */
+/* gallerie (background) */
 .modal-photos {
   display: none;
   position: fixed;
@@ -2662,7 +2662,7 @@ input:focus {
   background-color: black;
 }
 
-/* Modal Content */
+/* Gallerie Content */
 .modal-content-photos {
 
   background-color: #fefefe;
@@ -2672,7 +2672,7 @@ input:focus {
   max-width: 1200px;
 }
 
-/* The Close Button */
+/* bouton fermé */
 .close-photos img {
   background-color: #009cdf49;
   border-radius: 15px;

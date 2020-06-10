@@ -49,13 +49,13 @@ window.onload = function start(){
   
   
         
-  // Open the Modal
+  // Ouvre la photo en grand
   function openModal() {
     document.getElementById("myModal").style.display = "block";
     document.getElementById("close").style.display = "block";
   }
   
-  // Close the Modal
+  // Ferme la photo en grand
   function closeModal() {
     document.getElementById("myModal").style.display = "none";
     document.getElementById("close").style.display = "none";
@@ -64,12 +64,12 @@ window.onload = function start(){
   var slideIndex = 1;
   showSlides(slideIndex);
   
-  // Next/previous controls
+  // Contrôle suivant précédent
   function plusSlides(n) {
     showSlides(slideIndex += n);
   }
   
-  // Thumbnail image controls
+  // vignettes
   function currentSlide(n) {
     showSlides(slideIndex = n);
   }
