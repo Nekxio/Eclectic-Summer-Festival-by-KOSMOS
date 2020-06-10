@@ -54,14 +54,24 @@ Pour accéder au site, ouvrir l'index.html accessible à la racine du dossier t�
 Le dossier du site comporte différents dossiers et fichiers organisé selon les standards du développement.
 
 Eclectic-Summer-Festival-by-KOSMOS
-  api (le serveur utilisé ne propose pas l'intégration php, nous laissons tout de même une trace de notre form.php)
-  docs (les documents pdf liés à la construction du site)
-  en (les pages anglaise)
-  fr (les pages française)
-  src (dossier regroupant les dossiers nécessaires du site)
-    downloads (les téléchargeables du site)
-    fonts (la police du site)
-    images (les images du site)
-    scripts (le scripts du site)
-    styles (le css du site)
-    videos (les vidéos du site)
+ - api (le serveur utilisé ne propose pas l'intégration php, nous laissons tout de même une trace de notre form.php)
+ 
+ - docs (les documents pdf liés à la construction du site)
+ 
+ - en (les pages anglaise)
+ 
+ - fr (les pages française)
+ 
+ - src (dossier regroupant les dossiers nécessaires du site)
+ 
+   - downloads (les téléchargeables du site)
+   
+   - fonts (la police du site)
+   
+   - images (les images du site)
+   
+   - scripts (le scripts du site)
+   
+   - styles (le css du site)
+   
+   - videos (les vidéos du site)
