@@ -1,4 +1,4 @@
-# Projet Tuteuré de 1ère année MMI
+# Projet Tutoré de 1ère année MMI
 
 ## Membres de l'Agence KOSMOS
 
