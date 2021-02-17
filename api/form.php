@@ -14,7 +14,7 @@
     $email_from = 'leohilaire.contact@gmail.com';
     $email_subject = "Nouveau formulaire";
     $email_body = "Coucou $message";
-    $to = 'leohilaire.contact@gmail.com';
+    $to = 'contact@leohilaire.com';
     $headers = "De : $email_from \r\n";
 
     mail($to,$email_subject,$email_body,$headers);
